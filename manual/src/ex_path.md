@@ -36,4 +36,4 @@ Demonstrates the usage of the Dijkstra maps feature by brightening areas close t
 
 Demonstrates the Field-of-View functionality.
 
-![](./ex_path_fov.jpg)
+![Field-of-view example output](./ex_path_fov.jpg)
